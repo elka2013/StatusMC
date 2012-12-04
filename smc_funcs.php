@@ -111,12 +111,12 @@ class StatusMC extends WP_Widget
                 
                 <p>
 			<label for="<?php echo $this->get_field_id( 'smc_pass' ); ?>">API Pass</label>
-			<input id="<?php echo $this->get_field_id( 'smc_pass' ); ?>" name="<?php echo $this->get_field_name( 'smc_pass' ); ?>" value="<?php echo $instance['smc_pass']; ?>" style="width:100%;" />
+			<input type="password" id="<?php echo $this->get_field_id( 'smc_pass' ); ?>" name="<?php echo $this->get_field_name( 'smc_pass' ); ?>" value="<?php echo $instance['smc_pass']; ?>" style="width:100%;" />
 		</p>
                 
                 <p>
 			<label for="<?php echo $this->get_field_id( 'smc_salt' ); ?>">API Salt</label>
-			<input id="<?php echo $this->get_field_id( 'smc_salt' ); ?>" name="<?php echo $this->get_field_name( 'smc_salt' ); ?>" value="<?php echo $instance['smc_salt']; ?>" style="width:100%;" />
+			<input type="password" id="<?php echo $this->get_field_id( 'smc_salt' ); ?>" name="<?php echo $this->get_field_name( 'smc_salt' ); ?>" value="<?php echo $instance['smc_salt']; ?>" style="width:100%;" />
 		</p>
 		<?php
 	}
