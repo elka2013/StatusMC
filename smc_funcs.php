@@ -3,7 +3,7 @@
 Plugin Name: StatusMC
 Plugin URI: http://sync667.com/
 Description: Wyświetla informacje odnośnie serwera bukkit poprzez JSONAPI.//Its shows server status via JsonAPI Plugin.
-Version: 1.0
+Version: 1.1
 Author: sync667 - sync667@gmail.com
 Author URI: http://sync667.com/
 License: GPL3
