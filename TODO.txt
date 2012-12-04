@@ -1,4 +1,3 @@
 - Wiele serwerów na jedyn widgecie  // multi servers
 - Tłumaczenie na inne języki // Translations
-- Kodowanie i sprawdzanie wprowadzanych danych formularza // form code
 - Lista graczy online // online players list 
