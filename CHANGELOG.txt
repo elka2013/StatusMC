@@ -18,4 +18,4 @@ License: GPL3
 
 ***Wersja 0.1.1***
 
-- 
+- Form pass and salt type password set.
