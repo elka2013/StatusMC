@@ -1,10 +1,4 @@
 ﻿<?php
-// Access check
-   /* if ($accesscheck == 0){
-        echo '<center>Dostep zabroniony !</center>';
-        exit;
-    }*/
-    
 /**
  * A PHP class for access Minecraft servers that have Bukkit with the {@link http://github.com/alecgorge/JSONAPI JSONAPI} plugin installed.
  * 
